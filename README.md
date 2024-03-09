@@ -1,6 +1,8 @@
 
 # Iris Flower Classification 
 
+[![Iris Flower Classification ](https://github.com/Chhavi1427/Iris-Flower-Classification/blob/master/main.png)](https://irisflowerclassification-z7j1.onrender.com))
+
 This is a simple Flask web application for predicting the species of Iris flowers based on their sepal and petal measurements.
 
 ## Table of Contents
