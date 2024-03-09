@@ -70,7 +70,7 @@ The model used for prediction is a Decision Tree Classifier trained on the Iris 
 
 - [Flask Documentation](https://flask.palletsprojects.com/)
 - [scikit-learn Documentation](https://scikit-learn.org/stable/)
-- 
+- [Oasis Infobyte](https://www.oasisinfobyte.com/)
 
 
 ## Contact-Information-and-Project-Details
