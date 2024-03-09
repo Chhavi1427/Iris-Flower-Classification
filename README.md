@@ -1,7 +1,7 @@
 
 # Iris Flower Classification 
 
-[![Iris Flower Classification ](https://github.com/Chhavi1427/Iris-Flower-Classification/blob/master/main.png)](https://irisflowerclassification-z7j1.onrender.com))
+[![Iris Flower Classification ](https://github.com/Chhavi1427/Iris-Flower-Classification/blob/master/main.png)](https://irisflowerclassification-z7j1.onrender.com)
 
 This is a simple Flask web application for predicting the species of Iris flowers based on their sepal and petal measurements.
 
@@ -11,6 +11,9 @@ This is a simple Flask web application for predicting the species of Iris flower
 - [Deployment-on-Render](#Deployment-on-Render)
 - [Features](#features)
 - [File-Structure](#File-Structure)
+- [Dataset](#Dataset)
+- [Model](#Model)
+- [References](#References)
 - [Contact-Information-and-Project-Details](#Contact-Information-and-Project-Details)
 
 ## Prerequisites
@@ -54,10 +57,20 @@ This application can be deployed on Render. Ensure that you have the necessary c
 - `index.html`: HTML template for the home page.
 - `result.html`: HTML template for displaying the prediction result.
 
+## Dataset
+
+The application uses the Iris dataset (`Iris.csv`) to train the model. This dataset contains 150 samples of iris flowers, with measurements for sepal length, sepal width, petal length, petal width, and the corresponding species.
+
+## Model
+
+The model used for prediction is a Decision Tree Classifier trained on the Iris dataset. It predicts the species of iris flowers based on their features.
+
+
 ## References
 
 - [Flask Documentation](https://flask.palletsprojects.com/)
 - [scikit-learn Documentation](https://scikit-learn.org/stable/)
+- 
 
 
 ## Contact-Information-and-Project-Details
