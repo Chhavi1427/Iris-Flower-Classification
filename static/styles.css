@@ -1,0 +1,12 @@
+body {
+    body {
+    background-image: url(static/flower_pic.jpg);
+    background-size: 50%;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+}
+

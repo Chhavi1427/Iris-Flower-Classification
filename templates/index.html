@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flower Species Prediction</title>
+    <style>
+        body {
+            background-image: url(static/flower_pic.jpg);
+            background-size: cover;
+            background-position: center;
+            height: 100vh;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            align-items: center;
+        }
+        .prediction-container {
+            background-color: rgba(255, 255, 255, 0.5);
+            padding: 20px;
+            border-radius: 10px;
+            margin-left: 10%;
+        }
+    </style>
+</head>
+<body>
+    <div class="prediction-container">
+        <h1>Flower Species Prediction</h1>
+        <form action="/predict" method="post">
+            <label for="sepal_length">Sepal Length:</label>
+            <input type="text" id="sepal_length" name="sepal_length"><br><br>
+            <label for="sepal_width">Sepal Width:</label>
+            <input type="text" id="sepal_width" name="sepal_width"><br><br>
+            <label for="petal_length">Petal Length:</label>
+            <input type="text" id="petal_length" name="petal_length"><br><br>
+            <label for="petal_width">Petal Width:</label>
+            <input type="text" id="petal_width" name="petal_width"><br><br>
+            <input type="submit" value="Predict">
+        </form>
+    </div>
+</body>
+</html>
+
