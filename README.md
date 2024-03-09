@@ -6,10 +6,10 @@ This is a simple Flask web application for predicting the species of Iris flower
 ## Table of Contents
 - [Prerequisites](#Prerequisites)
 - [Usage](#usage)
-- [Deployment on Render](#Deployment on Render)
+- [Deployment-on-Render](#Deployment-on-Render)
 - [Features](#features)
-- [File Structure](#File Structure)
-- [Contact Information and Project Details](### Contact Information and Project Details)
+- [File-Structure](#File-Structure)
+- [Contact-Information-and-Project-Details](### Contact-Information-and-Project-Details)
 
 ## Prerequisites
 
@@ -30,20 +30,20 @@ To run the Flask application, execute the following command in your terminal:
 python deploy.py  
 '''
 
-This command will start a local server, and you can access the application in your web browser at http://localhost:5000.
+This command will start a local server, and you can access the application in your web browser at [http://localhost:5000](https://irisflowerclassification-z7j1.onrender.com).
 
 ## Usage
 
-1. Open your web browser and go to http://localhost:5000.
+1. Open your web browser and go to https://irisflowerclassification-z7j1.onrender.com.
 2. Enter the sepal and petal measurements in the provided input fields.
 3. Click the "Predict" button.
 4. The predicted species of the Iris flower will be displayed on the screen.
 
-## Deployment on Render
+## Deployment-on-Render
 
 This application can be deployed on Render. Ensure that you have the necessary configuration set up for deployment, including specifying the correct environment variables, dependencies, and deployment commands.
 
-## File Structure
+## File-Structure
 
 - `app.py`: Flask application script containing route definitions and model prediction logic.
 - `templates/`: Directory containing HTML templates for rendering web pages.
@@ -56,9 +56,9 @@ This application can be deployed on Render. Ensure that you have the necessary c
 - [scikit-learn Documentation](https://scikit-learn.org/stable/)
 
 
-## Contact Information and Project Details
+## Contact-Information-and-Project-Details
 
-**Project Name:** Customer Segmentation
+**Project Name:** Iris Flower Classification
 
 **Author:** [Chhavi Modi ](https://github.com/Chhavi1427)
 
