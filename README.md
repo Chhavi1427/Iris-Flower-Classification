@@ -21,13 +21,15 @@ Before running this application, ensure you have the following dependencies inst
 - scikit-learn
 
 You can install the required Python packages using pip:
+
 '''bash
 
 ## Running the Application
 
 To run the Flask application, execute the following command in your terminal:
 
-python deploy.py  
+python deploy.py 
+
 '''
 
 This command will start a local server, and you can access the application in your web browser at [http://localhost:5000](https://irisflowerclassification-z7j1.onrender.com).
