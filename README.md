@@ -79,7 +79,7 @@ The model used for prediction is a Decision Tree Classifier trained on the Iris 
 
 **Author:** [Chhavi Modi ](https://github.com/Chhavi1427)
 
-**Project Link:** https://github.com/Chhavi1427/Iris-Flower-Classification
+**Project Link:** https://github.com/Chhavi1427/OIBSIP-Iris-Flower-Classification-
 
 **Email:** modichavi1427@gmail.com
 
